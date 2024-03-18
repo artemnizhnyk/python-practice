@@ -24,5 +24,3 @@ sum = sum_nums(10, 5)
 print(sum)
 
 print("----------------------")
-
-
