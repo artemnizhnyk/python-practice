@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cd4ddb8-a11a-4c9a-91cb-e57deb151228" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6booleans.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6booleans.py" beforeDir="false" afterPath="$PROJECT_DIR$/6booleans.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,26 +27,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.2functions.executor": "Run",
-    "Python.3expressions.executor": "Run",
-    "Python.3variables (1).executor": "Run",
-    "Python.3variables.executor": "Run",
-    "Python.4strings.executor": "Run",
-    "Python.5intsandfloats.executor": "Run",
-    "Python.6booleans.executor": "Run",
-    "Python.functions.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/nizhn/OneDrive/Desktop/Python/python-practice",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3expressions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3variables (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.3variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5intsandfloats.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6booleans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nizhn/OneDrive/Desktop/Python/python-practice&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nizhn\OneDrive\Desktop\Python\python-practice" />
@@ -216,5 +216,16 @@
       <updated>1710512601764</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
